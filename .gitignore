@@ -31,3 +31,5 @@
 
 # Ignore public uploads
 public/uploads
+
+.env
